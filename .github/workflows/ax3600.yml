@@ -14,7 +14,7 @@ env:
   CACHE_TOOLCHAIN: true
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
-  FIRMWARE_TAG: IPQ807x-WIFI
+  FIRMWARE_TAG: IPQ807x-3600-WIFI
   TZ: Asia/Shanghai
 
 jobs:
